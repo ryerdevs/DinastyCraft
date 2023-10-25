@@ -130,5 +130,5 @@ xlpackets-1.16.4-1.2.jar
 YungsApi-1.16.4-Forge-13.jar
 YungsBridges-Forge-1.16.4-1.0.1.jar
 YungsExtras-Forge-1.16.4-1.0.jar
-[1.16.5]SecurityCraft v1.9.8.jar
+[1.16.5]SecurityCraftv1.9.8.jar
 [1.16.5][Forge]RPG-HUD-3.9.1.jar
