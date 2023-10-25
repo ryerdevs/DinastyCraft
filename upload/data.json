@@ -1,0 +1,648 @@
+{
+  "versions": {
+    "a5": {
+      "Path": "versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.jar",
+      "Size": "15340283",
+      "Hash": "a57b9157ff3bb308208e79ef9e19187e",
+      "Original": "17547153"
+    },
+    "20": {
+      "Path": "versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json",
+      "Size": "2413",
+      "Hash": "2090bfafdec72f885ddf95300bd96714",
+      "Original": "13577"
+    }
+  },
+  "mods": {
+    "a5": {
+      "Path": "mods/BetterDungeons-1.16.4-1.2.1.jar",
+      "Size": "442509",
+      "Hash": "a51b4f9c3e0e9fbdb3be8751dd2fc24e",
+      "Original": "510439"
+    },
+    "cd": {
+      "Path": "mods/kubejs-create-1605.1.4-build.12.jar",
+      "Size": "8189",
+      "Hash": "cd011b0ddc6b8388ce461c88eb866074",
+      "Original": "10233"
+    },
+    "4f": {
+      "Path": "mods/create-stuff-additions1.16.5_v1.1.6.jar",
+      "Size": "861008",
+      "Hash": "4ff841407a457b88703e4d33d6836eb0",
+      "Original": "966889"
+    },
+    "1b": {
+      "Path": "mods/YungsBridges-Forge-1.16.4-1.0.1.jar",
+      "Size": "69612",
+      "Hash": "1bf26f62e9be4eb07b91dab2d01edfe2",
+      "Original": "80085"
+    },
+    "eb": {
+      "Path": "mods/TerraForged-1.16.5-0.2.16.jar",
+      "Size": "1497015",
+      "Hash": "eb71e738c8d300b98921d336bcc0bfe1",
+      "Original": "1695951"
+    },
+    "74": {
+      "Path": "mods/architectury-1.32.68.jar",
+      "Size": "475231",
+      "Hash": "74a431a4f1a32ec5bbb4bfeb120887c6",
+      "Original": "551889"
+    },
+    "15": {
+      "Path": "mods/shutupexperimentalsettings-1.0.3.jar",
+      "Size": "2745",
+      "Hash": "150c992d5976049fcda0161132afc269",
+      "Original": "4140"
+    },
+    "03": {
+      "Path": "mods/starlight-1.2.jar",
+      "Size": "91437",
+      "Hash": "0300a2592cdb4b82f7203b4f0f9af87b",
+      "Original": "101511"
+    },
+    "42": {
+      "Path": "mods/Jade-1.16.4-2.8.3.jar",
+      "Size": "236686",
+      "Hash": "424b0eb9998bc92defc9eacb5a869a99",
+      "Original": "260212"
+    },
+    "21": {
+      "Path": "mods/goblintraders-1.7.3-1.16.5.jar",
+      "Size": "411472",
+      "Hash": "2161b97a4ff7c0ca199307be05839d83",
+      "Original": "428711"
+    },
+    "7f": {
+      "Path": "mods/CraftTweaker-1.16.5-7.1.2.525.jar",
+      "Size": "2232484",
+      "Hash": "7f32d032971d2cc8259b20cfa2d79ded",
+      "Original": "2504025"
+    },
+    "10": {
+      "Path": "mods/smoothboot-forge-1.16.4-1.2.2.jar",
+      "Size": "81630",
+      "Hash": "104ca76ce6b18b90fbfa4c58b3bbdfc2",
+      "Original": "84744"
+    },
+    "55": {
+      "Path": "mods/ars_nouveau-1.16.5-1.25.10.jar",
+      "Size": "3824793",
+      "Hash": "55331ee80cf08cc8eb1745be25f22e6f",
+      "Original": "4750450"
+    },
+    "63": {
+      "Path": "mods/TrashSlot_1.16.3-12.2.1.jar",
+      "Size": "51503",
+      "Hash": "6379a23830acc94efa27eb5470e1bf22",
+      "Original": "61032"
+    },
+    "0f": {
+      "Path": "mods/Clumps-6.0.0.28.jar",
+      "Size": "16521",
+      "Hash": "0fdfe776ae513bd8a4c7396097ce42e9",
+      "Original": "18397"
+    },
+    "61": {
+      "Path": "mods/create_recycle_0.9.0_forge_1.16.5.jar",
+      "Size": "49745",
+      "Hash": "61be642d07ca2a5a514b692a654863a2",
+      "Original": "90239"
+    },
+    "25": {
+      "Path": "mods/createaddition-1.16.5-20220129a.jar",
+      "Size": "713758",
+      "Hash": "250fd90a842bb6c1071c58f09ff2febf",
+      "Original": "834203"
+    },
+    "83": {
+      "Path": "mods/majruszs-difficulty-1.16.4-1.1.0.jar",
+      "Size": "574836",
+      "Hash": "831d6a118a413d81e576033a424c7ca4",
+      "Original": "658320"
+    },
+    "82": {
+      "Path": "mods/BetterThirdPerson-Forge-1.16.4-1.9.0.jar",
+      "Size": "91284",
+      "Hash": "82e5ee36ad418859487f860612c1d430",
+      "Original": "97199"
+    },
+    "2c": {
+      "Path": "mods/fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar",
+      "Size": "1188365",
+      "Hash": "2c007b61ee2b87f360c2109130efea27",
+      "Original": "1322894"
+    },
+    "e1": {
+      "Path": "mods/voicechat-forge-1.16.5-2.4.27.jar",
+      "Size": "7492371",
+      "Hash": "e1a0a9f2f1f8989bb6aece9bb1ecb59c",
+      "Original": "7647125"
+    },
+    "41": {
+      "Path": "mods/FasterLadderClimbing-1.16.4-0.2.1.jar",
+      "Size": "6339",
+      "Hash": "412c7da37834476fa0df9231dbd626b3",
+      "Original": "7563"
+    },
+    "94": {
+      "Path": "mods/ImprovedBackpacks-1.6.2.1.jar",
+      "Size": "1996728",
+      "Hash": "944d0c85b7999446e5c748bc6aeebb6c",
+      "Original": "2293207"
+    },
+    "84": {
+      "Path": "mods/entitycollisionfpsfix-1.16-1.0.1.jar",
+      "Size": "4040",
+      "Hash": "84dbfa2da29359ffb63a825a7e46734e",
+      "Original": "5341"
+    },
+    "b3": {
+      "Path": "mods/CreateDrinks-1.0.1-1.16.5.jar",
+      "Size": "142260",
+      "Hash": "b37cf5af4361c83dab04ca2a739d0c3c",
+      "Original": "153515"
+    },
+    "5f": {
+      "Path": "mods/alexsmobs-1.12.1.jar",
+      "Size": "17694742",
+      "Hash": "5f3cbbbdea79b8faa0ad0f5445587690",
+      "Original": "18135643"
+    },
+    "71": {
+      "Path": "mods/player-animation-lib-forge-0.3.5+1.16.5.jar",
+      "Size": "127056",
+      "Hash": "717c92aeec033acf005a0870227e96b6",
+      "Original": "147335"
+    },
+    "9a": {
+      "Path": "mods/createdeco-1.1.2-1.16.5.jar",
+      "Size": "1155802",
+      "Hash": "9afa5c27642d40a8458a9ed0b36d4a7f",
+      "Original": "2408566"
+    },
+    "64": {
+      "Path": "mods/spoornextras-1.0.jar",
+      "Size": "6214",
+      "Hash": "649bec014406fdc36fcd4a2ed2364bad",
+      "Original": "7495"
+    },
+    "79": {
+      "Path": "mods/Controlling-7.0.0.29.jar",
+      "Size": "43365",
+      "Hash": "791dbc416c4f5a10367a1cc825b491ed",
+      "Original": "51888"
+    },
+    "d4": {
+      "Path": "mods/out_of_sight-1.16.4-1.0.1.jar",
+      "Size": "11168",
+      "Hash": "d494971448034973678c24171f3e5479",
+      "Original": "13677"
+    },
+    "67": {
+      "Path": "mods/immersive-armors-1.5.1+1.16.5-forge.jar",
+      "Size": "819523",
+      "Hash": "67849b26de36311198c24c212a87aa85",
+      "Original": "1132465"
+    },
+    "bf": {
+      "Path": "mods/AI-Improvements-1.16.5-0.5.0.jar",
+      "Size": "23796",
+      "Hash": "bf159753ed2f20e25b0100d91fdbc60f",
+      "Original": "28376"
+    },
+    "e5": {
+      "Path": "mods/Mantle-1.16.5-1.6.157.jar",
+      "Size": "730707",
+      "Hash": "e5ee7cb043a90615d0fdacffbc1f6790",
+      "Original": "806737"
+    },
+    "04": {
+      "Path": "mods/gravestone-1.16.5-1.0.6.jar",
+      "Size": "211363",
+      "Hash": "045b52a5d3f9fb01b799930fce8d2e4e",
+      "Original": "234677"
+    },
+    "b9": {
+      "Path": "mods/Placebo-1.16.5-4.7.1.jar",
+      "Size": "158184",
+      "Hash": "b9436888ceffed9622ce58e0d71f8fd2",
+      "Original": "174158"
+    },
+    "a0": {
+      "Path": "mods/DynamicTreesBOP-1.16.5-2.0.9.jar",
+      "Size": "201368",
+      "Hash": "a0115e3a88bd9f525f0931c7644f6f50",
+      "Original": "360121"
+    },
+    "b0": {
+      "Path": "mods/createcafe-1.16.5-2.4.jar",
+      "Size": "119058",
+      "Hash": "b0e761f52ca314ffbb5586ee401d7822",
+      "Original": "210323"
+    },
+    "5c": {
+      "Path": "mods/cloth-config-4.17.101-forge.jar",
+      "Size": "1292443",
+      "Hash": "5cedc05e7502ce5f46067f28eb1798e2",
+      "Original": "1452545"
+    },
+    "dc": {
+      "Path": "mods/DynamicTrees-1.16.5-0.10.5.jar",
+      "Size": "1800780",
+      "Hash": "dc7995f8b800c2033b029c36fe8d6f1d",
+      "Original": "1999564"
+    },
+    "c3": {
+      "Path": "mods/CreativeCore_v2.2.1_mc1.16.5.jar",
+      "Size": "549300",
+      "Hash": "c32d3e1df267d820eb2b1b8e8adb75e1",
+      "Original": "631207"
+    },
+    "c9": {
+      "Path": "mods/iceandfire-2.1.12-1.16.5-patch-1.jar",
+      "Size": "18548468",
+      "Hash": "c9de9b4b6e91353fb37ecdb6660fda84",
+      "Original": "21463531"
+    },
+    "6c": {
+      "Path": "mods/JEITweaker-1.16.5-1.1.0.49.jar",
+      "Size": "134404",
+      "Hash": "6c7ebf18dc1c42f91ee503308fed1e2c",
+      "Original": "151709"
+    },
+    "7a": {
+      "Path": "mods/DynamicTreesTConstruct-1.16.5-1.3.0.jar",
+      "Size": "69287",
+      "Hash": "7a0470e5ac4acff499af54c9e6d2fd56",
+      "Original": "112521"
+    },
+    "99": {
+      "Path": "mods/BetterModsButton-v1.0.5-1.16.5-Forge.jar",
+      "Size": "72285",
+      "Hash": "99b85e9b76608124f8c482a0c58f8b35",
+      "Original": "78198"
+    },
+    "95": {
+      "Path": "mods/combatroll-1.0.8.2+1.16.jar",
+      "Size": "142531",
+      "Hash": "95800dad2563e0408b7522a886af02ca",
+      "Original": "155987"
+    },
+    "22": {
+      "Path": "mods/BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar",
+      "Size": "164746",
+      "Hash": "22e0e952a15fed3cebb3cf5399c3fca5",
+      "Original": "181211"
+    },
+    "b5": {
+      "Path": "mods/MutantBeasts-1.16.4-1.1.3.jar",
+      "Size": "1235482",
+      "Hash": "b55a961c4a242c8388350328edd09b19",
+      "Original": "1289476"
+    },
+    "27": {
+      "Path": "mods/TConstruct-1.16.5-3.3.4.335.jar",
+      "Size": "7675555",
+      "Hash": "27978fc015dc861fb4d856d84d123e1a",
+      "Original": "10927812"
+    },
+    "76": {
+      "Path": "mods/Aquaculture-1.16.5-2.1.23.jar",
+      "Size": "408408",
+      "Hash": "768c50bbeb2460e943806c1a0ca11a19",
+      "Original": "551038"
+    },
+    "47": {
+      "Path": "mods/byg-1.3.6.jar",
+      "Size": "8513324",
+      "Hash": "47af500ed23d3cacf5404bf984e44250",
+      "Original": "10315242"
+    },
+    "60": {
+      "Path": "mods/getittogetherdrops-1.16.5-v1.2.jar",
+      "Size": "6372",
+      "Hash": "6094cb398deb77dae0a2cbe7c544030d",
+      "Original": "7883"
+    },
+    "a7": {
+      "Path": "mods/Morpheus-1.16.5-4.2.70.jar",
+      "Size": "21418",
+      "Hash": "a7833a6c8cf784058d8dfdd792f788e1",
+      "Original": "24390"
+    },
+    "c8": {
+      "Path": "mods/createautomated-1.16.5-1.4.1a.jar",
+      "Size": "406225",
+      "Hash": "c86bffcec29152d23034d4e968f2e892",
+      "Original": "485548"
+    },
+    "cc": {
+      "Path": "mods/aquamirae-5.4.API11.jar",
+      "Size": "17117319",
+      "Hash": "cc0146374a071177eb093441efc9aae5",
+      "Original": "17219961"
+    },
+    "3f": {
+      "Path": "mods/DungeonsArise-1.16.5-2.1.49-beta.jar",
+      "Size": "5290842",
+      "Hash": "3fb03d325ae6459f9352bcc6a1c632c8",
+      "Original": "5544981"
+    },
+    "90": {
+      "Path": "mods/immersive_aircraft-0.5.2+1.16.5-forge.jar",
+      "Size": "1723657",
+      "Hash": "90516523466cb3377be38d89d5644c3c",
+      "Original": "1932683"
+    },
+    "75": {
+      "Path": "mods/rhino-forge-1605.1.5-build.75.jar",
+      "Size": "959460",
+      "Hash": "755de4e8b6fb352d979c7900894de29c",
+      "Original": "1030440"
+    },
+    "fb": {
+      "Path": "mods/Xaeros_Minimap_FP23.8.2_Forge_1.16.5.jar",
+      "Size": "1165080",
+      "Hash": "fbe0374e9c9f88096e3fdf844fc80b28",
+      "Original": "1299093"
+    },
+    "d3": {
+      "Path": "mods/ConfigMenusForge-v1.2.0-1.16.5-Forge.jar",
+      "Size": "225922",
+      "Hash": "d30155edfd4003c479cdc9a2fbfb2667",
+      "Original": "243479"
+    },
+    "be": {
+      "Path": "mods/reap-1.16.5-1.0.1.jar",
+      "Size": "103043",
+      "Hash": "bef80f665bfa486b08d55aaf29ae9c7b",
+      "Original": "117169"
+    },
+    "ba": {
+      "Path": "mods/xlpackets-1.16.4-1.2.jar",
+      "Size": "4013",
+      "Hash": "ba2a2f2e729bc614afe101a7e8e48a23",
+      "Original": "5261"
+    },
+    "72": {
+      "Path": "mods/RoughlyEnoughItems-6.5.436.jar",
+      "Size": "1720715",
+      "Hash": "72528ea08667acf7c4119c63e77314c6",
+      "Original": "1907225"
+    },
+    "e2": {
+      "Path": "mods/Create Deco Casing 2.0.0 1.16.5.jar",
+      "Size": "884693",
+      "Hash": "e2863105c90b0c24b8c31dd25c994def",
+      "Original": "991790"
+    },
+    "33": {
+      "Path": "mods/FpsReducer-forge-1.24-mc1.16.5.jar",
+      "Size": "87119",
+      "Hash": "33801faed801cb3427b1b20cbb9a44fe",
+      "Original": "95076"
+    },
+    "77": {
+      "Path": "mods/CosmeticArmorReworked-1.16.5-v5.jar",
+      "Size": "78347",
+      "Hash": "7702be69fb48e63423409112d5e6aaea",
+      "Original": "87717"
+    },
+    "e9": {
+      "Path": "mods/BiomesOPlenty-1.16.5-13.1.0.477-universal.jar",
+      "Size": "3051582",
+      "Hash": "e9c62fa3fce0a36475bf6e4b5c43a542",
+      "Original": "3651670"
+    },
+    "0c": {
+      "Path": "mods/abnormals_core-1.16.5-3.3.1.jar",
+      "Size": "868407",
+      "Hash": "0c91b63a7f5863a10c2f1dfd7bf604af",
+      "Original": "975979"
+    },
+    "e0": {
+      "Path": "mods/ColtCosmeticArmorMod-1.2.5.jar",
+      "Size": "367268",
+      "Hash": "e035819f0b1686ae7f7b1a21c3c7e5d6",
+      "Original": "432486"
+    },
+    "d1": {
+      "Path": "mods/minecraft-comes-alive-7.3.23+1.16.5-universal.jar",
+      "Size": "9159927",
+      "Hash": "d1533377447e53e81b2eae55a03df5ee",
+      "Original": "9791176"
+    },
+    "78": {
+      "Path": "mods/theurgy-1.16.5-1.0.8.jar",
+      "Size": "412106",
+      "Hash": "786c1504d0ea7d014b8bf786c32e1cdb",
+      "Original": "538514"
+    },
+    "bc": {
+      "Path": "mods/twilightforest-1.16.5-4.0.870-universal.jar",
+      "Size": "30302804",
+      "Hash": "bc9f7d1c53369268094e970edd26a43c",
+      "Original": "31748538"
+    },
+    "16": {
+      "Path": "mods/create-addon-v5.jar",
+      "Size": "62199",
+      "Hash": "16f6044a094e40a830911f226e9c5dba",
+      "Original": "75117"
+    },
+    "3c": {
+      "Path": "mods/useless-sword-1.16.5-V1.3.7.jar",
+      "Size": "2407098",
+      "Hash": "3c9a33b0bdba224994637701a33eea2b",
+      "Original": "2994485"
+    },
+    "b7": {
+      "Path": "mods/mobifier-1.1.4.jar",
+      "Size": "88443",
+      "Hash": "b731f26cc2b21330cc7b3b84badb3d07",
+      "Original": "97996"
+    },
+    "31": {
+      "Path": "mods/SpawnerFix-1.16.2-1.0.0.2.jar",
+      "Size": "59704",
+      "Hash": "313f7e0c3ca1cde114c8311dfcc898bd",
+      "Original": "60588"
+    },
+    "6a": {
+      "Path": "mods/ferritecore-2.1.1-forge.jar",
+      "Size": "92044",
+      "Hash": "6a96a36de00e5d8e9bf2e87634d13125",
+      "Original": "108557"
+    },
+    "b2": {
+      "Path": "mods/cfm-7.0.0pre22-1.16.3.jar",
+      "Size": "1261950",
+      "Hash": "b2a5f7a361279de6bb5f51246ad36484",
+      "Original": "2033912"
+    },
+    "65": {
+      "Path": "mods/occultism-1.16.5-1.29.1.jar",
+      "Size": "4303095",
+      "Hash": "65364e0f8d8ebf9f20ff77fe0cd27f4b",
+      "Original": "4792769"
+    },
+    "0d": {
+      "Path": "mods/mcw-furniture-3.2.0-mc1.16.5forge.jar",
+      "Size": "645445",
+      "Hash": "0d7ad1afb0c7ea95012c03a94461e978",
+      "Original": "1383691"
+    },
+    "d9": {
+      "Path": "mods/YungsApi-1.16.4-Forge-13.jar",
+      "Size": "95032",
+      "Hash": "d9bb57c12da921556bfd981c37f9a49a",
+      "Original": "106058"
+    },
+    "d2": {
+      "Path": "mods/mowziesmobs-1.5.27.jar",
+      "Size": "13256789",
+      "Hash": "d22cdf578a2a167cd25747390d4bd39f",
+      "Original": "13557419"
+    },
+    "07": {
+      "Path": "mods/create-confectionery1.16.5_v1.0.2.jar",
+      "Size": "803496",
+      "Hash": "07d06ae74fecb04d2de2f740256db819",
+      "Original": "921648"
+    },
+    "d6": {
+      "Path": "mods/DungeonCrawl-1.16.5-2.3.12.jar",
+      "Size": "667932",
+      "Hash": "d6efa1d445d15eb94b0e1bc7afde6c11",
+      "Original": "797023"
+    },
+    "db": {
+      "Path": "mods/3dSkinLayers-forge-1.1.0.jar",
+      "Size": "376538",
+      "Hash": "dba8ab24194f55b0cc4d5d1039ce86e3",
+      "Original": "380495"
+    },
+    "a4": {
+      "Path": "mods/Patchouli-1.16.4-53.3.jar",
+      "Size": "555526",
+      "Hash": "a4791ba66914beed9bb755ae1a84ca87",
+      "Original": "593352"
+    },
+    "6f": {
+      "Path": "mods/geckolib-forge-1.16.5-3.0.106.jar",
+      "Size": "3225333",
+      "Hash": "6f4524eea52474c58280c2b0ac06e1e0",
+      "Original": "3559283"
+    },
+    "7e": {
+      "Path": "mods/majrusz-library-1.16.4-2.0.1.jar",
+      "Size": "82256",
+      "Hash": "7ef5f935e6ac2d4f247430b9ac1e6d27",
+      "Original": "88373"
+    },
+    "69": {
+      "Path": "mods/kubejs-forge-1605.3.19-build.299.jar",
+      "Size": "820044",
+      "Hash": "6996918f81b312c31e7d6ba47c2cd4f3",
+      "Original": "919043"
+    },
+    "f6": {
+      "Path": "mods/embeddium-extras-mc1.16.5_v1.10.4.jar",
+      "Size": "62497",
+      "Hash": "f6558e03034bdb40b5c2f2c4ef48161c",
+      "Original": "72887"
+    },
+    "09": {
+      "Path": "mods/flywheel-1.16-0.2.5.jar",
+      "Size": "371049",
+      "Hash": "0964200fddbd4ff67dfab63c5aae161a",
+      "Original": "420923"
+    },
+    "fc": {
+      "Path": "mods/lazydfu-0.1.3.jar",
+      "Size": "13884",
+      "Hash": "fce7920ba6329d631da4025e9322e5e0",
+      "Original": "15258"
+    },
+    "23": {
+      "Path": "mods/betterfpsdist-1.2.jar",
+      "Size": "12233",
+      "Hash": "2308031c7afa5e023fd5d988210890f7",
+      "Original": "14478"
+    },
+    "ae": {
+      "Path": "mods/CreateArmorAndWeaponsv2.jar",
+      "Size": "66913",
+      "Hash": "aec42da3c1b7a4a607bd64e165c35fbb",
+      "Original": "88504"
+    },
+    "9e": {
+      "Path": "mods/citadel-1.8.1-1.16.5.jar",
+      "Size": "452737",
+      "Hash": "9ee0682eec5d343c6238e30c21c98e69",
+      "Original": "482439"
+    },
+    "2d": {
+      "Path": "mods/spark-1.9.1-forge.jar",
+      "Size": "2918634",
+      "Hash": "2d82da0ca51901f70360d555f1257bcd",
+      "Original": "3157081"
+    },
+    "46": {
+      "Path": "mods/FastSuite-1.16.4-1.1.1.jar",
+      "Size": "9209",
+      "Hash": "46672d6b456190e9d9b4a67641d42bac",
+      "Original": "10829"
+    },
+    "1e": {
+      "Path": "mods/kryptonreforged-mc1.16.5_v1.0.0.jar",
+      "Size": "1880253",
+      "Hash": "1e661faa2cc3be3040fb3024b93ab195",
+      "Original": "2110314"
+    },
+    "2a": {
+      "Path": "mods/BetterCaves-Forge-1.16.4-1.1.2.jar",
+      "Size": "1388364",
+      "Hash": "2a4d2750e78156a6efcbb2ea932d4e6e",
+      "Original": "1402482"
+    },
+    "96": {
+      "Path": "mods/FarmersDelight-1.16.5-0.6.0.jar",
+      "Size": "2228877",
+      "Hash": "9614adb0fe0607d00fad43b773b5434c",
+      "Original": "2565217"
+    },
+    "98": {
+      "Path": "mods/HardcoreRevival_1.16.5-5.2.1.jar",
+      "Size": "41797",
+      "Hash": "98a127379f2794a0f3fc0607b870e399",
+      "Original": "47710"
+    },
+    "9d": {
+      "Path": "mods/EntityCulling-1.16.5-2.1.7.jar",
+      "Size": "54597",
+      "Hash": "9dbe1b391814d9694abbccd6cc8bcc59",
+      "Original": "60730"
+    },
+    "7c": {
+      "Path": "mods/Ksyxis-Forge1.14thru1.16-1.1.jar",
+      "Size": "7973",
+      "Hash": "7c1761cff6514ccfbe8fde869f3a4f5b",
+      "Original": "9186"
+    },
+    "ff": {
+      "Path": "mods/strawgolem-1.16-1.9.jar",
+      "Size": "941242",
+      "Hash": "ff37e3b2270ecb7e6a2786c65bdbcfb5",
+      "Original": "960286"
+    },
+    "85": {
+      "Path": "mods/morecreatestuffs-mc1.16-1.4.1b.jar",
+      "Size": "104203",
+      "Hash": "8504d1098eb71e5e58407c3b3844c427",
+      "Original": "136224"
+    }
+  }
+}

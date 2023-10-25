@@ -1,1 +1,7 @@
-hola
+ml.karmaconfigs.modpackupdater.files.MPUExt: DinastyCraft
+ml.karmaconfigs.modpackupdater.files.MPUExt_AUTHORS: Ryer
+ml.karmaconfigs.modpackupdater.files.MPUExt_V: 1.1
+[LIST=ml.karmaconfigs.modpackupdater.files.MPUExt_DESC]
+<span>v1.1</span>
+[/LIST=ml.karmaconfigs.modpackupdater.files.MPUExt_DESC]
+ml.karmaconfigs.modpackupdater.files.MPUExt_DATA: https://ryerdevs.github.io/DinastyCraft/
