@@ -31,7 +31,7 @@ constructsarmory-forge-2.0.0-alpha.2+1.16.5.jar
 Controlling-7.0.0.29.jar
 CosmeticArmorReworked-1.16.5-v5.jar
 CraftTweaker-1.16.5-7.1.2.525.jar
-Create Deco Casing 2.0.0 1.16.5.jar
+CreateDecoCasing.jar
 create-addon-v5.jar
 create-confectionery1.16.5_v1.0.2.jar
 create-mc1.16.5_v0.3.2g.jar
