@@ -86,7 +86,6 @@ Ksyxis-Forge1.14thru1.16-1.1.jar
 kubejs-create-1605.1.4-build.12.jar
 kubejs-forge-1605.3.19-build.299.jar
 lazydfu-0.1.3.jar
-lista.txt
 majrusz-library-1.16.4-2.0.1.jar
 majruszs-difficulty-1.16.4-1.1.0.jar
 Mantle-1.16.5-1.6.157.jar
@@ -131,5 +130,5 @@ xlpackets-1.16.4-1.2.jar
 YungsApi-1.16.4-Forge-13.jar
 YungsBridges-Forge-1.16.4-1.0.1.jar
 YungsExtras-Forge-1.16.4-1.0.jar
-[1.16.5] SecurityCraft v1.9.8.jar
-[1.16.5][Forge] RPG-HUD-3.9.1.jar
+[1.16.5]SecurityCraft v1.9.8.jar
+[1.16.5][Forge]RPG-HUD-3.9.1.jar
