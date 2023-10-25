@@ -10,7 +10,6 @@ betteranimalsplus-1.16.5-11.0.10-forge.jar
 BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
 BetterCaves-Forge-1.16.4-1.1.2.jar
 bettercombat-1.4.5.3+1.16.jar
-BetterDungeons-1.16.4-1.2.1.jar
 betterfpsdist-1.2.jar
 BetterMineshafts-Forge-1.16.4-2.0.4.jar
 BetterModsButton-v1.0.5-1.16.5-Forge.jar
