@@ -121,7 +121,7 @@ TConstruct-1.16.5-3.3.4.335.jar
 TerraForged-1.16.5-0.2.16.jar
 theurgy-1.16.5-1.0.8.jar
 TrashSlot_1.16.3-12.2.1.jar
-twilightforest-1.16.5-4.0.870-universal.jar
+twilightforest.jar
 upgrade_aquatic-1.16.5-3.1.2.jar
 useless-sword-1.16.5-V1.3.7.jar
 voicechat-forge-1.16.5-2.4.27.jar
