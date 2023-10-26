@@ -1,18 +1,19 @@
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
-    background-color: #333;
+    background-color: #36393f;
     color: #fff;
 }
 
 header {
-    background-color: #1e1e1e;
+    background-color: #36393f;
     padding: 20px;
     text-align: center;
 }
 
 h1 {
     font-size: 36px;
+    color: #43b581; /* Color verde Discord */
 }
 
 nav ul {
@@ -27,7 +28,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #43b581; /* Color verde Discord */
 }
 
 main {
@@ -37,13 +38,13 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #1e1e1e;
+    background-color: #36393f;
 }
 
-/* Estilos específicos para Minecraft */
+/* Estilos similares a Discord */
 .content {
-    background-color: #444;
+    background-color: #2e3338; /* Color de fondo similar a Discord */
     padding: 20px;
-    border: 1px solid #333;
+    border: 1px solid #202225; /* Color de borde similar a Discord */
     box-shadow: 0 0 10px #000;
 }
