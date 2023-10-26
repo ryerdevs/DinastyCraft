@@ -1,28 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Minecraft Launcher</title>
+    <title>DinastyCraft</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Minecraft Launcher</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#">Descargas</a></li>
-                <li><a href="#">Mods</a></li>
-                <li><a href="#">Noticias</a></li>
-            </ul>
-        </nav>
+        <h1>DinastyCraft</h1>
     </header>
     <main>
         <section class="content">
-            <!-- Contenido de tu página aquí -->
+            <h2>Changelog - Versión 1.2</h2>
+            <p>¡Bienvenido a la versión 1.2 de DinastyCraft!</p>
+            <ul>
+                <li>Se han agregado nuevos mods al modpack.</li>
+                <li>Se han solucionado errores y se ha mejorado la estabilidad del servidor.</li>
+                <li>Se han actualizado las texturas y los recursos del juego.</li>
+            </ul>
+            <h2>Descargas</h2>
+            <ul>
+                <?php
+                $directory = 'download-modpack-versions';
+                $files = scandir($directory);
+                foreach ($files as $file) {
+                    if ($file != "." && $file != "..") {
+                        echo '<li><a href="' . $directory . '/' . $file . '">' . $file . '</a></li>';
+                    }
+                }
+                ?>
+            </ul>
         </section>
     </main>
-    <footer>
-        &copy; 2023 Tu Sitio Web
-    </footer>
 </body>
 </html>
