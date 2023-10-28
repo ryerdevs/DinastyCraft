@@ -16,7 +16,7 @@ class ModpackUpdater:
         self.root = tk.Tk()  
         self.root.geometry("500x300")
         self.root.configure(bg="#36393f")
-        self.root.title("Actualizador de Modpack DinastyCraft v0.1 por Ryer")
+        self.root.title("Actualizador de Modpack DinastyCraft v0.2 por Ryer")
         
         s = ttk.Style()
         s.theme_use('clam')
